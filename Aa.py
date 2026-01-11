@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 
 # --- НАСТРОЙКИ ---
 API_TOKEN = '8381301732:AAEesMo1ziDhIxr5vOwgyoMefDdH38nZ5jY'
-ADMIN_ID = 5827110408
+ADMIN_ID = 8066060450
 SHOP_LINK = 'https://t.me/freezebotnet'
 INST_LINK = 'https://t.me/instru_frezee'
 
