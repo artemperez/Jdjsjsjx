@@ -1,4 +1,4 @@
-.
+
 import asyncio
 import random
 import logging
